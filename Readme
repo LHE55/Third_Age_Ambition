@@ -1,1 +1,18 @@
 This is a Romhack of the game Nobunagas Ambition on the original Game Boy. To use it you need the US-Version of the ROM.
+The Romhack changes all the generals to mostly famous, sometimes generic, LOTR-Generals. The world map and a lot of the wording is also changed to represent a Lord of the Ring Adventure.
+
+Version 0.5
+
+Changes:
+- Map of Japan changed to Map of middle earth
+- 12 new Realms (Misty Mountain, Erebor, Rivendell, Dale, Shire, Bree, Moria, Rhun, Lothlorien, Harad, Mirkwood, Dol Goldur, Gondor, Rohan, Isengard, Mordor)
+- Every General name and sprite changed (100 Generals with 48 unique Sprites)
+- Starting Conditions are changed compared to the original game
+
+To Do:
+- Making Bree Generals more Random in the stats
+- FixingStability Problems
+- Nicer Start Screen
+- Some Texts
+- Icons in battles are wrong
+
