@@ -16,3 +16,7 @@ To Do:
 - Some Texts
 - Icons in battles are wrong
 
+
+How to prepare the game:
+- First you need to open the python file SRM.Py or the .exe-File and then put in your rom and make a version. Right now there is nothing random so making multiple seeds makes no difference.
+- After that you can open the rom that gets generated in "Output" with any Game Boy Emulator.
